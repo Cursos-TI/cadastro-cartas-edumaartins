@@ -2,5 +2,11 @@
 
 int main (){
   printf("desafio cartas super trunfo!\n");
-  printf("Novo commit\n");
+char Opcao = 'A';
+char Opcao = 'A01';
+char Opcao = 'Porto Alegre';
+int 
+
+
+
 }
