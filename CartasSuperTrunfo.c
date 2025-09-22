@@ -1,11 +1,20 @@
 #include <stdio.h>
 
 int main (){
-  printf("desafio cartas super trunfo!\n");
-char Opcao = 'A';
-char Opcao = 'A01';
-char Opcao = 'Porto Alegre';
-int 
+
+ printf("desafio cartas super trunfo!\n");
+
+ char Estado;
+ char carta;
+ char cidade;
+ int populacao;
+ float area;
+ float PIB;
+ int turisticos;
+ 
+
+   
+
 
 
 
