@@ -3,22 +3,26 @@
 int main (){
 
  printf("desafio cartas super trunfo!\n");
+ 
+ // Primeira carta
+ char Estado1[]="RS";
+ char codigo_carta1[] = "A01";
+ char cidade1[] = "Porto Alegre";
 
- char Estado = 'A';
- char codigo_carta = 'A01';
- char cidade = 'Porto Alegre';
- int populacao = 1388.794;
- float area = 496.8; 
- float pib = 81.56;
- int pontos_turisticos = 38;
+float  populacao1 = 1388.794f;
+ float area1 = 496.8f; 
+ float pib = 81.56f;
+ int pontos_turisticos1 = 38;
 
- char estado = 'B';
- char codigo_carta = 'B02';
- char cidade = 'angra dos reis';
- int populacao = 179.120;
- float area = 813.420;
- float pib = 11.194;
- int pontos_turisticos = 10; 
+ //Segunda Carta 
+ char estado2[] = "RJ";
+ char codigo_carta1[] = "B02"; ;
+ char cidade2[] = "Rio de Janeiro";
+ float populacao2 = 179.120f;
+ float area2 = 813.420f;
+ float pib2 = 11.194f;
+ int pontos_turisticos = 10;  
+ return 0;
 
  
 
