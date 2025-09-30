@@ -25,7 +25,7 @@ subtracao = numero1 - numero2;
   //operação multiplicação
 
 multiplicacao = numero1 * numero2;
-  //operção divisão
+  //operação divisão
 
 divisao = numero1 / numero2;
 printf("A Soma é: %d\n", soma);

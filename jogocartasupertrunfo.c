@@ -24,18 +24,26 @@ int main (){
     float pib_percapita1; // pib per capita = pib/populacao1;
 
     printf("cidade: %s/n", cidade1);
+    
 
     printf("populacao: %.3f/n", populacao1);
 
+
     printf("area: %.2f/n", area1);
+
 
     printf("pib: %.2f/n", pib);
 
+
     printf("pontos turisticos: %d/n", pontos_turisticos1);
+
 
     printf("densidade populacional: %.2f/n", densidade1);
 
+    
+
     printf("pib per capita: %.2f/n", pib_percapita1);
+    
     
     
     //Segunda Carta 
