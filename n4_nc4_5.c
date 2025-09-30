@@ -10,15 +10,16 @@ int main(){
     Pós-Decremento a--
  */
 
- int numero1 = 1;
+ int numero1 = 1, resultado;
 
  printf("Antes incremento: %d\n", numero1);
- numero1 = numero1 +1;
-  numero1++;
-  printf("Apos incremento: %d\n", numero1);
+  //numero1 = numero1 +1;
+  //numero1++;
+  //Pos incremento: 
+  //resultado = numero1;
+  //numero++;
+  resultado = ++ numero1;
 
-numero1 = numero1 -1;
-  numero1--;
-printf("Apos decremento: %d\n", numero1);
+
 
 }
